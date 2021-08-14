@@ -50,6 +50,5 @@ def update_graph(xaxis_name, yaxis_name):
             hovermode='closest')
     }
 
-
 if __name__ == '__main__':
     app.run_server()
